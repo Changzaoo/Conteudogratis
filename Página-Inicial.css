@@ -18,7 +18,7 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 1.875rem;
-  margin: 16px 377px 0 2px;
+  margin: 11px 377px 0 2px;
 }
 
 .u-section-1 .u-text-2 {
@@ -30,8 +30,8 @@
 
 .u-section-1 .u-image-1 {
   width: 335px;
-  height: 249px;
-  margin: -26px 0 0 auto;
+  height: 190px;
+  margin: -37px 6px 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
@@ -41,7 +41,7 @@
   border-style: none;
   font-weight: 700;
   text-transform: none;
-  margin: -200px auto 0 30px;
+  margin: -130px auto 0 30px;
   padding: 9px 50px 11px;
 }
 
@@ -342,7 +342,7 @@
 
   .u-section-1 .u-image-1 {
     margin-top: 70px;
-    margin-right: 0;
+    margin-right: 6px;
     margin-left: auto;
   }
 
