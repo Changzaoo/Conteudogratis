@@ -1,28 +1,186 @@
-.u-section-1 .u-sheet-1 {
-  min-height: 547px;
+ .u-section-1 {
+  background-image: none;
+  min-height: 1060px;
+}
+
+.u-section-1 .u-line-1 {
+  transform-origin: left center 0px;
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 1140px;
 }
 
 .u-section-1 .u-custom-html-1 {
   height: auto;
   min-height: 487px;
   width: 842px;
-  margin: 15px auto 45px;
+  margin: 53px 224px 0 174px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 91px auto 0 182px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -52px auto 0 630px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 16px 672px 0 182px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 51px 174px 0 182px;
+}
+
+.u-section-1 .u-line-2 {
+  transform-origin: left center 0px;
+  width: 1238px;
+  margin: 85px auto 3px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-line-1 {
+    left: 520px;
+    width: 0;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 154px);
+    margin-left: calc(((100% - 1140px) / 2) + 144px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 252px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 500px);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 1140px) / 2) + 602px);
+    margin-left: calc(((100% - 1140px) / 2) + 152px);
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: calc(((100% - 1140px) / 2) + 104px);
+    margin-left: calc(((100% - 1140px) / 2) + 152px);
+  }
+
+  .u-section-1 .u-line-2 {
+    width: 940px;
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-line-1 {
+    left: 410px;
+  }
+
   .u-section-1 .u-custom-html-1 {
     width: 720px;
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+    margin-right: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 362px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 390px);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 1140px) / 2) + 544px);
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+    margin-right: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-line-2 {
+    width: 720px;
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-line-1 {
+    left: 320px;
+  }
+
   .u-section-1 .u-custom-html-1 {
     width: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 452px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 1140px) / 2) + 454px);
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-line-2 {
+    width: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-line-1 {
+    left: 220px;
+  }
+
   .u-section-1 .u-custom-html-1 {
     width: 340px;
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 496px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 402px);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-line-2 {
+    width: 340px;
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
   }
 }
