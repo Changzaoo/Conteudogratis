@@ -1,22 +1,27 @@
  .u-section-1 {
-  background-image: url("../images/default-image.jpg");
+  background-image: none;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 547px;
+  min-height: 571px;
 }
 
 .u-section-1 .u-custom-html-1 {
   height: auto;
-  min-height: 487px;
-  margin: 12px 175px 48px 120px;
+  min-height: 526px;
+  background-image: none;
+  margin: 22px 158px 21px 120px;
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 547px;
+  }
+
   .u-section-1 .u-custom-html-1 {
     width: 845px;
     margin-left: 20px;
-    margin-right: 75px;
+    margin-right: 58px;
   }
 }
 
