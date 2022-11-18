@@ -38964,12 +38964,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -157px 256px 46px auto;
+  margin: -153px 167px 42px auto;
 }
 
 .u-header .u-nav-1 {
   font-size: 1rem;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -38986,6 +38985,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -158px;
     margin-right: 100px;
     margin-bottom: 60px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
